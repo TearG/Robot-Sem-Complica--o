@@ -1,0 +1,12 @@
+# Robot Framework output files
+result/
+log.html
+report.html
+output.xml
+*.png
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
